@@ -1,0 +1,4 @@
+admin:admin
+user1:12345
+user2:qwert
+user3:asdfg
